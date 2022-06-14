@@ -81,7 +81,7 @@ body{
     grid-template: 1fr 1fr 1fr 1fr/  1fr 1fr 1fr 1fr 1fr;
     gap: 20px;
 }
-@media (max-width: 400px){
+@media (max-width: 470px){
     img{
         height: 50px;
         width: 50px;
